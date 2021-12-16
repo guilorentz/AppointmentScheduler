@@ -1,2 +1,2 @@
 # AppointmentScheduler
-Projeto feito com ASP.NET Core MVC
+Project from the Udemy course: "ASP.NET Core 5.0 MVC The Beginners Guide To Becoming A Pro"
